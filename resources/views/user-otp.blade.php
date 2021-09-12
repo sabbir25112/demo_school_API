@@ -1,0 +1,1 @@
+YOUR OTP IS {{ $otp }}
